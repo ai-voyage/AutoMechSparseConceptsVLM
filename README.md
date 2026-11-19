@@ -1,7 +1,7 @@
 # Automating Mechanistic Sparse Concept Discovery in Vision-Language Models
 
 **Nima Mirnateghi, Syed Mohammed Shamsul Islam, Syed Afaq Ali Shah**
-*DICTA 2026*
+*DICTA 2026 (accepted)*
 
 [Paper](#) · [Artefacts](#pretrained-artefacts) · [Citation](#citation)
 
